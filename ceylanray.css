@@ -1,0 +1,97 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.logo{
+  display: flex;
+}
+.nav{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  flex-direction: row;
+
+}
+.text{
+  margin-left: 25px;
+  margin-right: 25px;
+  font-family: Roboto, Arial;
+  font-size: 20px;
+}
+.line{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.hero{
+  position: relative;
+  display: flex;
+}
+.frame33{
+  position: absolute;
+  top: 450px;
+  right: 30px;
+  
+}
+.main{
+  position: relative;
+  display: flex;
+}
+.snorkling{
+  position: absolute;
+  top: 100px;
+  left: 150px;
+}
+.frame32{
+  position: absolute;
+  top: 700px;
+  left: 175px;
+}
+.air-balloon{
+  position: absolute;
+  top:100px;
+  right: 150px;
+}
+.wind-surfing{
+  position: absolute;
+  top: 700px;
+  left: 150px;
+  
+}
+.diving{
+  position: absolute;
+  top: 700px;
+  right: 150px ;
+}
+.safari{
+  position: absolute;
+  top: 1300px;
+  right:150px;
+  width: 35%;
+}
+.hiking{
+  position: absolute;
+  top: 1300px;
+  left: 150px;
+  width: 35%;
+}
+.background-main{
+  position: absolute;
+  top: 1800px;
+  width: 100%;
+}
+.footer-background{
+  position: absolute;
+  bottom:0;
+
+}
+

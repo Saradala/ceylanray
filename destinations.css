@@ -1,0 +1,172 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.logo{
+  display: flex;
+}
+.nav{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  flex-direction: row;
+
+}
+.text{
+  margin-left: 25px;
+  margin-right: 25px;
+  font-family: Roboto, Arial;
+  font-size: 20px;
+}
+.line{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.hero{
+  display: flex;
+  width: 100%;
+  position: relative;
+  
+}
+.hero-background{
+  position:absolute;
+  width: 100%;
+  top: 30px;
+  
+
+}
+.where{
+  position: relative;
+  top: 200px;
+  left: 70px;
+}
+.to{
+  position: relative;
+  top: 350px;
+  right: 135px;
+}
+.wording-background{
+  width: 37%;
+  position: relative;
+  top: 560px;
+  right: 400px;
+ 
+}
+.word-back{
+  position: absolute;
+  width: 35%;
+  top: 590px;
+  right: 405px;
+}
+.main{
+  display: flex;
+  width: 100%;
+  position: relative;
+}
+.background-main{
+  position: absolute;
+  width: 100%;
+  top: 558px;
+  
+}
+.sri-lanka{
+  position: absolute;
+  font-family: 'roboto';
+  top: 600px;
+  text-align: center;
+  color: white;
+  font-size: 80px;
+  right: 500px;
+  
+}
+.colombo{
+  position: relative;
+  top: 900px;
+  width: 35%;
+  left: 70px;
+}
+.anuradhapura{
+  position: relative;
+  top: 900px;
+  left: 300px;
+  width: 35%;
+}
+.nuwara-eliya{
+  position: relative;
+  top: 1600px;
+  right: 850px;
+  width: 35%;
+}
+.down-south{
+  position: relative;
+  width: 35%;
+  right: 620px;
+  top: 1600px;
+}
+.kandy{
+  position: relative;
+  width: 35%;
+  right: 1780px;
+  top: 2300px;
+}
+.jaffna{
+  position: relative;
+  width: 35%;
+  right: 1550px;
+  top: 2300px;
+}
+.other-destinations{
+  position: absolute;
+  font-family: 'roboto';
+  top: 3000px;
+  text-align: center;
+  color: white;
+  font-size: 80px;
+  right: 250px;
+  
+}
+.europe{
+  position: relative;
+  width: 35%;
+  right: 2710px;
+  top:3200px ;
+}
+.singapore{
+  position: relative;
+  width: 35%;
+  right: 2480px;
+  top: 3200px;
+}
+.malaysia{
+  position: relative;
+  right: 3640px;
+  width: 35%;
+  top: 3800px;
+}
+.india{
+  position: relative;
+  right: 3410px;
+  width: 35%;
+  top: 3800px;
+}
+.indonisia{
+  position: relative;
+  right: 4250px;
+  width: 35%;
+  top: 4350px;
+}
+.background-footer{
+  position: relative;
+  right: 5200px;
+  top: 5600px;
+}

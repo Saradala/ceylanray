@@ -1,0 +1,123 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.logo{
+  display: flex;
+}
+.nav{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  flex-direction: row;
+
+}
+.text{
+  margin-left: 25px;
+  margin-right: 25px;
+  font-family: Roboto, Arial;
+  font-size: 20px;
+}
+.line{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.hero{
+  display: flex;
+  width: 100%;
+  position: relative;
+}
+.hero-background{
+  position: absolute;
+  top: 10px;
+  width: 100%;
+}
+.welcome{
+  position: absolute;
+  top:100px;
+  right: 30px;
+  width: 40%;
+}
+.to{
+  position: absolute;
+  top: 250px;
+  right: 40px;
+  width: 20%;
+}
+.down{
+  position: absolute;
+  top:450px;
+  right: 40px;
+  width: 20%;
+
+}
+.south{
+  position: absolute;
+  top: 570px;
+  right: 40px;
+  width: 25%;
+  
+}
+.main{
+  position: relative;
+  display: flex;
+  width: 100%;
+}
+.background-main{
+  position: absolute;
+  width: 100%;
+  top: 793px;
+
+}
+.galle-fort{
+  position: absolute;
+  width: 35%;
+  top: 900px;
+  left: 90px;
+
+}
+.martin{
+  position: absolute;
+  width: 35%;
+  top: 900px;
+  left: 700px;
+}
+.church{
+  position: absolute;
+  width: 35%;
+  top: 1500px;
+  left: 90px;
+}
+.jungle-beach{
+  position: absolute;
+  width: 35%;
+  top: 1500px;
+  left: 700px;
+}
+.unawatuna-beach{
+  position: absolute;
+  top: 2100px;
+  width: 35%;
+  left: 90px;
+}
+.house{
+  position: absolute;
+  top: 2100px;
+  left: 700px;
+  width: 35%;
+}
+.main-background{
+  position: absolute;
+  top: 3400px;
+  width: 100%;
+}
